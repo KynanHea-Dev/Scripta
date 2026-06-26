@@ -22,3 +22,5 @@ A beautiful Bible reading tracker inspired by Apple's Liquid Glass design. Track
 
 # Downloading
 To download scripta find the versions area on the scripta page and click on the newest release and the download the top-most ZIP FILE, after it is saved to your device extract the zip file if needed, and then open the INDEX.HTML, Cngratulations! You Now Have Scripta! 
+# Note 
+If the top-most file doesn't work the download the one DIRECTLY under it.
